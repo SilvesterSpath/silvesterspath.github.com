@@ -11,8 +11,8 @@ const links = [
   'https://silvesterspath.github.io/Progress-steps/',
   'https://silvesterspath.github.io/Blurry-loading/',
   'https://silvesterspath.github.io/Wave-Effect/',
-  'https://github.com/SilvesterSpath/Search-Widget.git',
-  'https://github.com/SilvesterSpath/Event-keyCodes.git',
+  'https://silvesterspath.github.io/Search-Widget/',
+  'https://silvesterspath.github.io/Event-keyCodes/',
 ];
 
 const images = [
