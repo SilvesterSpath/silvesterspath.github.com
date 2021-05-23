@@ -52,6 +52,7 @@ checkBoxes();
 
 function checkBoxes() {
   const trigger = (window.innerHeight / 5) * 2;
+  let count = 0;
 
   boxes.forEach((i, index) => {
     i.style.backgroundImage = `url(${images[index]})`;
