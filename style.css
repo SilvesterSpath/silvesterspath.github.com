@@ -26,7 +26,7 @@ body {
 }
 
 #scroll{
-	position: relative;
+  position: relative;
 }
 
 h1 {
@@ -34,21 +34,21 @@ h1 {
 }
 
 p{
-	position: fixed;
-	bottom: 100px;
-	right: 110px;
+  position: fixed;
+  bottom: 100px;
+  right: 110px;
 }
 
 #arrow{
-	position: fixed;
-	bottom: 90px;
-	right: 120px;
+  position: fixed;
+  bottom: 90px;
+  right: 120px;
 }
 
 #arrow-head{
-	position: fixed;
-	bottom: 80px;
-	right: 117px;
+  position: fixed;
+  bottom: 80px;
+  right: 117px;
 }
 
 .box {
