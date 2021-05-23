@@ -1,4 +1,5 @@
 const boxes = document.querySelectorAll('.box');
+const scroll = document.querySelector('.scroll');
 
 const links = [
   'https://silvesterspath.github.io/github_finder/',
@@ -65,5 +66,10 @@ function checkBoxes() {
     } else {
       i.classList.remove('show');
     }
+    if (count > 0){
+			scroll.style.visibility = 'hidden';
+		} else {
+			scroll.style.visibility = 'visible';
+		}
   });
 }
