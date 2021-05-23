@@ -10,7 +10,7 @@ const links = [
   'https://github.com/SilvesterSpath/FAQ-Collapse.git',
   'https://github.com/SilvesterSpath/Progress-steps.git',
   'https://github.com/SilvesterSpath/Blurry-loading.git',
-  'https://github.com/SilvesterSpath/Wave-Effect.git',
+  'https://silvesterspath.github.io/Wave-Effect/',
   'https://github.com/SilvesterSpath/Search-Widget.git',
   'https://github.com/SilvesterSpath/Event-keyCodes.git',
 ];
