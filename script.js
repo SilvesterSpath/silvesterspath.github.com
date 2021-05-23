@@ -64,13 +64,15 @@ function checkBoxes() {
 
     if (boxTop < trigger) {
       i.classList.add('show');
+      count++;
     } else {
       i.classList.remove('show');
+      count--;
     }
     if (count > 0){
-			scroll.style.visibility = 'hidden';
-		} else {
-			scroll.style.visibility = 'visible';
-		}
+      scroll.style.visibility = 'hidden';
+    } else {
+      scroll.style.visibility = 'visible';
+    }
   });
 }
